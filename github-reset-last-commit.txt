@@ -2,3 +2,4 @@ test1
 github latest commit revert command
 git reset --hard 61234(latest commit hash)
 git push -f origin master
+test
